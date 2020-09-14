@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+
+<!-- html file -->
+<html>
+
+
+<head>
+
+<meta keywords = "bio , biotechnology"  />
+<link rel="stylesheet" type="text/css" href="style.css">
+<title>  Biology and Technology </title>
+<style>
+.dropbtn {
+  background-color: orange;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  right: 0;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1;}
+.dropdown:hover .dropdown-content {display: block;}
+.dropdown:hover .dropbtn {background-color: #3e8e41;}
+</style>
+
+</head>
+
+<body>
+
+<div id="wrab">
+
+<h1> Biology <img src="SS.PNG" style="high:70px; width:70px;" / >
+and Technology <img src="A.PNG" style="high:70px; width:70px;" / > </h1>
+
+
+ <div id="second" >
+ 
+ <h4>"THE FUTURE IS YOURS "</h4>
+ </div>
+ 
+ <div>
+
+</div>
+<div  style="left: 1150px; position: absolute;  top : 0px;">
+<h1 class="font_2" style="font-size:40px; text-align:right; color:#F9AD3B; font-style:italic;"> LET'S </h1>
+<h1 class="font_2" style="font-size:40px; text-align:right; color:#F9AD3B; font-style:italic;"> ENJOY </h1>
+<h1 class="font_2" style="font-size:40px; text-align:right; color:#F9AD3B; font-style:italic;"> SCIENCE </h1>
+</div>
+
+<div id="champ-list " >
+<ul>
+    <li id="box"> <div class="dropdown" > <button class="dropbtn"  > <a href="Home.html">HOME</a> </button> </div>  </li>
+    
+	<li id="box"  > 
+<div class="dropdown" >
+	<button  class="dropbtn" > <a href="our.html" >   OUR PROGRAMS </a> </button>
+	<div class="dropdown-content" >
+  <a href = "puzzel.html">PUZZEL GAME </a>
+  <a href = "puzzel2.html"> PUZZEL GAME 2</a>
+  <a href = "watch.html">WATCH & LEARN </a>
+  <a href = "code.html">CODE YOUR FUTURE </a>
+  <a href = "lesson1.html">LESSON 1</a>
+  <a href = "practice.html">PRACTICE 1</a>
+  <a href = "color.html">COLORING SCIENCE </a>
+</div>
+</div>
+	
+	
+ </li>
+    <li id="box"> <div class="dropdown" > <button class="dropbtn" >  <a href="Vision.html">VISION</a>  </button> </div> </li>
+    <li id="box">  <div class="dropdown" > <button class="dropbtn" >  <a href="Regester.html"> REGISTER</a></button> </div> </li>
+   
+    </ul>
+
+</div> 
+ <span style="font-family:futura-lt-w01-book,sans-serif; color:black;">BIO-TECHNOLOGY</span>
+ <hr style=" color:orange; text-align:center;">
+
+ </div>
+
+<div>
+
+</div>
+
+
+<div style="background:orange;  margin-left : 300px; color:white; high:400px; width :700px; ">
+<h2 style="text-align:center; text-align : center ; " ><span>WE'RE THERE</span></h2>
+
+<h2 style="text-align:center; text-align : center ; " ><span>WHERE YOU</span></h2>
+
+<h2 style=" text-align:center; text-align: center;" ><span>NEED US</span></h2>
+</div>
+
+<div  id="WRchTxt2i" style=" width: 420px; position: absolute; min-height: 311px; pointer-events: none; font-size:18px;">
+<p class="font_8" style="line-height:1.3em; font-size:18px;"><span style="font-size:18px;">Why Biotechnology?</span></p>
+
+<ul style="font-size:18px;  line-height:1.3em;">
+	<li >
+	<p style="line-height:1.3em; font-size:18px;"><span style="font-size:15px;">Most Hot topics these days and in the future.</span></p>	</li>
+	<li >
+	<p style="line-height:1.3em; font-size:18px;"><span style="font-size:15px;">It has a great contribution in making a better future by new discoveries and in 
+	health sector specifically.</span></p>
+	</li>
+	<li >
+	<p  style="line-height:1.3em; font-size:18px;"><span style="font-size:15px;">Biotechnology , together with bio-informatics and 
+	computational biology fields, have something in common : Merge TECHNOLOGY field with SCIENCE AND BIOLOGY.</span></p>
+	</li>
+	<li >
+	<p  style="line-height:1.3em; font-size:18px;"><span style="font-size:15px;">Awareness at an early stage is better and safer ,
+	by letting kids get used to the field.</span></p>
+	</li>
+	<li >
+	<p class="font_8" style="line-height:1.3em; font-size:18px;"><span style="font-size:15px;">Growing Field and still under Discovery.</span></p>
+	</li>
+</ul>
+</div>
+
+<div >
+
+
+<div id="comp-keug0kw3" style="  position: absolute; left: 469px; width: 26px; position: absolute; top:400px; height: 26px;">
+
+<div style="width: 26px;  height:26px; ">
+<img src="bold_love.webp" style="width: 26px; top:500px; height: 26px;"></div>
+
+
+<div style="width: 26px; height: 26px;">
+<img  src="high_love.webp" style="width: 26px; height: 26px; "></div>
+
+<div style="width: 26px; height: 26px;">
+<img src="bold_love.webp" style="width: 26px; height: 26px;">
+</div>
+</div>
+
+<div id="comp-keug0p3r" style="left: 469px; width: 26px; position: absolute; top:600; height: 26px;">
+
+<div >
+<div  style="width: 26px; height: 26px;">
+<img src="bold_love.webp" style="width: 26px; height: 26px;"></div></div>
+
+<div >
+<div  style="width: 26px; height: 26px;">
+<img  src="high_love.webp" style="width: 26px; height: 26px; "></div></div>
+
+<div >
+<div  style="width: 26px; height: 26px;">
+<img src="bold_love.webp" style="width: 26px; height: 26px;"></div>
+</div>
+
+</div>
+
+
+
+
+<div  id="WRchTxt2i" style="left: 523px; width: 420px; position: absolute; pointer-events: none;">
+<p style="font-size:18px; line-height:1.3em;"><span style="font-size:18px;">What's next?</span></p>
+
+<ul style="font-size:18px;">
+	<li >
+	<p  style="font-size:18px; line-height:1.3em;"><span style="font-size:14px;">
+	<span style="color:#000000;">We want every visitor to our website to get familiar with the connection between the fields . </span></span></p>
+	</li>
+	<li >
+	<p  style="font-size:18px; line-height:1.3em;"><span style="font-size:14px;">Different activities that encourage the kid to think about biology and technology TOGETHER in one website 
+	so it makes him wonder about the reason and think about the topic itself.</span></p>
+	</li>
+	<li >
+	<p style="font-size:18px; line-height:1.3em;"><span style="font-size:14px;">
+	<span style="color:#000000;">Help students to understand what they take in school in a better way.</span></span></p>
+	</li>
+	<li >
+	<p  style="font-size:18px; line-height:1.3em;"><span style="font-size:14px;">
+	<span style="color:#000000;">Enjoying science and thinking about it in another way with lots of fun and joy.</span></span></p>
+	</li>
+	<li>
+	<p  style="font-size:18px; line-height:1.3em;"><span style="font-size:14px;">
+	<span style="color:#000000;">Considered as a first step for a better education and enhanced system.</span></span></p>
+	</li>
+</ul>
+
+</div>
+
+</div>
+
+
+
+
+</body>
+
+  
+
+
+</html>
