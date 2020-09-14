@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+
+<!-- html file -->
+<html>
+
+
+<head>
+
+<meta keywords = "bio , biotechnology"  />
+<link rel="stylesheet" type="text/css" href="style.css">
+<title>  Biology and Technology </title>
+<style>
+.dropbtn {
+  background-color: orange;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  right: 0;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1;}
+.dropdown:hover .dropdown-content {display: block;}
+.dropdown:hover .dropbtn {background-color: #3e8e41;}
+</style>
+
+</head>
+
+<body>
+
+<div id="wrab">
+
+<h1> Biology <img src="SS.PNG" style="high:70px; width:70px;" / >
+and Technology <img src="A.PNG" style="high:70px; width:70px;" / > </h1>
+
+
+ <div id="second" >
+ 
+ <h4>"THE FUTURE IS YOURS "</h4>
+ </div>
+ 
+ <div>
+
+</div>
+<div  style="left: 1150px; position: absolute;  top : 0px;">
+<h1 class="font_2" style="font-size:40px; text-align:right; color:#F9AD3B; font-style:italic;"> LET'S </h1>
+<h1 class="font_2" style="font-size:40px; text-align:right; color:#F9AD3B; font-style:italic;"> ENJOY </h1>
+<h1 class="font_2" style="font-size:40px; text-align:right; color:#F9AD3B; font-style:italic;"> SCIENCE </h1>
+</div>
+
+<div id="champ-list " >
+<ul>
+    <li id="box"> <div class="dropdown" > <button class="dropbtn"  > <a href="Home.html">HOME</a> </button> </div>  </li>
+    
+	<li id="box"  > 
+<div class="dropdown" >
+	<button  class="dropbtn" > <a href="our.html" >   OUR PROGRAMS </a> </button>
+	<div class="dropdown-content" >
+  <a href = "puzzel.html">PUZZEL GAME </a>
+  <a href = "puzzel2.html"> PUZZEL GAME 2</a>
+  <a href = "watch.html">WATCH & LEARN </a>
+  <a href = "code.html">CODE YOUR FUTURE </a>
+  <a href = "lesson1.html">LESSON 1</a>
+  <a href = "practice.html">PRACTICE 1</a>
+  <a href = "color.html">COLORING SCIENCE </a>
+</div>
+</div>
+	
+	
+ </li>
+    <li id="box"> <div class="dropdown" > <button class="dropbtn" >  <a href="Vision.html">VISION</a>  </button> </div> </li>
+    <li id="box">  <div class="dropdown" > <button class="dropbtn" >  <a href="Regester.html"> REGISTER</a></button> </div> </li>
+   
+    </ul>
+
+</div> 
+ <span style="font-family:futura-lt-w01-book,sans-serif; color:black;">BIO-TECHNOLOGY</span>
+ <hr style=" color:orange; text-align:center;">
+
+ </div>
+
+<div>
+
+</div>
+
+
+</body>
+
+  
+
+
+</html>
