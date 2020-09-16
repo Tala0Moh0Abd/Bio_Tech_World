@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+
+<!-- html file -->
+<html>
+
+
+<head>
+
+<meta keywords = "bio , biotechnology"  />
+<link rel="stylesheet" type="text/css" href="style.css">
+<title>  Biology and Technology </title>
+<style>
+.dropbtn {
+  background-color: orange;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  right: 0;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1;}
+.dropdown:hover .dropdown-content {display: block;}
+.dropdown:hover .dropbtn {background-color: #3e8e41;}
+</style>
+
+</head>
+
+<body>
+
+<div id="wrab">
+
+<h1> Biology <img src="SS.PNG" style="high:70px; width:70px;" / >
+and Technology <img src="A.PNG" style="high:70px; width:70px;" / > </h1>
+
+
+ <div id="second" >
+ 
+ <h4>"THE FUTURE IS YOURS "</h4>
+ </div>
+ 
+ <div>
+
+</div>
+<div  style="left: 1150px; position: absolute;  top : 0px;">
+<h1 class="font_2" style="font-size:40px; text-align:right; color:#F9AD3B; font-style:italic;"> LET'S </h1>
+<h1 class="font_2" style="font-size:40px; text-align:right; color:#F9AD3B; font-style:italic;"> ENJOY </h1>
+<h1 class="font_2" style="font-size:40px; text-align:right; color:#F9AD3B; font-style:italic;"> SCIENCE </h1>
+</div>
+
+<div id="champ-list " >
+<ul>
+    <li id="box"> <div class="dropdown" > <button class="dropbtn"  > <a href="Home.html">HOME</a> </button> </div>  </li>
+    
+	<li id="box"  > 
+<div class="dropdown" >
+	<button  class="dropbtn" > <a href="our.html" >   OUR PROGRAMS </a> </button>
+	<div class="dropdown-content" >
+	  <a href = "watch.html">WATCH & LEARN </a>
+
+  <a href = "puzzel.html">PUZZEL GAME </a>
+  <a href = "puzzel2.html"> PUZZEL GAME 2</a>
+  <a href = "code.html">CODE YOUR FUTURE </a>
+  <a href = "lesson1.html">LESSON 1</a>
+  <a href = "practice.html">PRACTICE 1</a>
+  <a href = "color.html">COLORING SCIENCE </a>
+</div>
+</div>
+	
+	
+ </li>
+    <li id="box"> <div class="dropdown" > <button class="dropbtn" >  <a href="Vision.html">VISION</a>  </button> </div> </li>
+    <li id="box">  <div class="dropdown" > <button class="dropbtn" >  <a href="Regester.html"> REGISTER</a></button> </div> </li>
+   
+    </ul>
+
+</div> 
+ <span style="font-family:futura-lt-w01-book,sans-serif; color:black;">BIO-TECHNOLOGY</span>
+ <hr style=" color:orange; text-align:center;">
+
+ </div>
+
+<div>
+
+<div  id="WRchTxt2i" style="left: 15px; width: 858px; position: absolute; pointer-events: none; ">
+<h2 class="font_2" style="font-size:26px;">
+<span style="color:#000000;">
+<span style="font-size:26px;">Select&nbsp;each nucleotide&nbsp;with the corresponding one&nbsp;in DNA TRANSACTION:
+</span>
+</span>
+</h2>
+</div>
+
+<button onclick="myFunction()" id="WRchTxt2i"  style="background:#F6CD7A; height:40px; width:190px;  margin-top:100px;" >(A-T) , (G-C) , (C-G) , (T-A) </button>
+<p id="demo"  style="color : #FBCF55; font-size:24px; margin-left: calc((100% - 980px) * 0.5);  "></p>
+
+<button onclick="myFunction1()"  id="WRchTxt2i"  style="background:#F6CD7A; height:40px; width:190px;  margin-top:50px;">(A-G) , (T-C) , (A-G) , (T-A)</button>
+<p id="dem" style="color : #FBCF55; font-size:24px;  margin-left: calc((100% - 980px) * 0.5);  "></p> 
+
+<button onclick="myFunction2()"  id="WRchTxt2i"  style="background:#F6CD7A; height:40px; width:190px;  margin-top:60px;" >(A-C) , (G-T) , (C-G) , (C-A)</button>
+<p id="de" style="color : #FBCF55; font-size:24px;  margin-left: calc((100% - 980px) * 0.5);  "></p> 
+
+
+<button id="WRchTxt2i"  style="background:#F6CD7A; height:40px; width:190px;  margin-top:-200px;" >  <a href="code.html" > Let's go to learn coding </a> </button>
+
+</div>
+
+<script>
+function myFunction() {
+  document.getElementById("demo").innerHTML = " Your answer is correct .. go next  ";
+}
+
+function myFunction1() {
+  document.getElementById("dem").innerHTML = " Your answer is not correct .. try again later ";
+}
+function myFunction2() {
+  document.getElementById("de").innerHTML = " Your answer is not correct .. try again later ";
+}
+</script>
+
+
+<style>
+footer {
+  text-align: center;
+  padding: 1px;
+  background-color:Orange;
+  color: white;
+ 
+}
+</style>
+<br>
+<br>
+<br>
+<footer>
+  <p>
+  <a href="Home.html">Home||</a>
+ <a href="Our.html">Our Programs||</a>
+ <a href="Vision.html">Vision||</a>
+  <a href="Regester.html">Regiser||</a>
+<p>© 2020 Biotechnology for kids<br>
+
+</p>
+</footer>
+
+</body>
+
+  
+
+
+</html>
