@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+
+<!-- html file -->
+<html>
+
+
+<head>
+
+<meta keywords = "bio , biotechnology"  />
+<link rel="stylesheet" type="text/css" href="style.css">
+<title>  Biology and Technology </title>
+<style>
+.dropbtn {
+  background-color: orange;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  right: 0;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1;}
+.dropdown:hover .dropdown-content {display: block;}
+.dropdown:hover .dropbtn {background-color: #3e8e41;}
+</style>
+
+</head>
+
+<body>
+
+<div id="wrab">
+
+<h1> Biology <img src="SS.PNG" style="high:70px; width:70px;" / >
+and Technology <img src="A.PNG" style="high:70px; width:70px;" / > </h1>
+
+
+ <div id="second" >
+ 
+ <h4>"THE FUTURE IS YOURS "</h4>
+ </div>
+ 
+ <div>
+
+</div>
+<div  style="left: 1150px; position: absolute;  top : 0px;">
+<h1 class="font_2" style="font-size:40px; text-align:right; color:#F9AD3B; font-style:italic;"> LET'S </h1>
+<h1 class="font_2" style="font-size:40px; text-align:right; color:#F9AD3B; font-style:italic;"> ENJOY </h1>
+<h1 class="font_2" style="font-size:40px; text-align:right; color:#F9AD3B; font-style:italic;"> SCIENCE </h1>
+</div>
+
+<div id="champ-list " >
+<ul>
+    <li id="box"> <div class="dropdown" > <button class="dropbtn"  > <a href="Home.html">HOME</a> </button> </div>  </li>
+    
+	<li id="box"  > 
+<div class="dropdown" >
+	<button  class="dropbtn" > <a href="our.html" >   OUR PROGRAMS </a> </button>
+	<div class="dropdown-content" >
+	  <a href = "watch.html">WATCH & LEARN </a>
+
+  <a href = "puzzel.html">PUZZEL GAME </a>
+  <a href = "puzzel2.html"> PUZZEL GAME 2</a>
+ 
+  <a href = "code.html">CODE YOUR FUTURE </a>
+  <a href = "lesson1.html">LESSON 1</a>
+  <a href = "practice.html">PRACTICE 1</a>
+  <a href = "color.html">COLORING SCIENCE </a>
+</div>
+</div>
+	
+	
+ </li>
+    <li id="box"> <div class="dropdown" > <button class="dropbtn" >  <a href="Vision.html">VISION</a>  </button> </div> </li>
+    <li id="box">  <div class="dropdown" > <button class="dropbtn" >  <a href="Regester.html"> REGISTER</a></button> </div> </li>
+   
+    </ul>
+
+</div> 
+ <span style="font-family:futura-lt-w01-book,sans-serif; color:black;">BIO-TECHNOLOGY</span>
+ <hr style=" color:orange; text-align:center;">
+
+ </div>
+
+
+<main tabindex="-1" data-is-mobile="false" data-is-mesh="false" data-site-width="980" class="pc1" data-state="" id="PAGES_CONTAINER" style="left: 0px; margin-left: 0px; width: 100%; min-width: 980px; position: absolute; top: 478px; height: 541px;"><div id="PAGES_CONTAINERscreenWidthBackground" class="pc1screenWidthBackground" style="left: 0px;"></div><div id="PAGES_CONTAINERcenteredContent" class="pc1centeredContent"><div id="PAGES_CONTAINERbg" class="pc1bg" style="display: none;"></div><div id="PAGES_CONTAINERinlineContent" class="pc1inlineContent"><div style="width: 100%; top: 0px; height: 541px;"><div data-ismobile="false" data-is-mesh-layout="false" class="p1" id="mainPage" style="left: 0px; min-width: 980px; min-height: 500px; width: 100%; position: absolute; top: 0px; height: 869px; display: none; max-height: 0px; visibility: hidden; overflow: hidden;"><div id="mainPagebg" class="p1bg" style="margin-left: calc((100% - 980px) / 2); width: 980px;"></div><div class="p1inlineContent" id="mainPageinlineContent"><div data-content-area-marker="mainPage" data-aid="content-area-marker-mainPage" style="visibility: hidden; position: absolute; width: 980px; margin-left: calc((100% - 980px) * 0.5);"></div></div></div><div data-ismobile="false" data-is-mesh-layout="false" class="style-kesx6r5j" id="ufifq" style="left: 0px; min-width: 980px; min-height: 500px; width: 100%; position: absolute; top: 0px; height: 541px;"><div id="ufifqbg" class="style-kesx6r5jbg" style="margin-left: calc((100% - 980px) / 2); width: 980px;"></div><div class="style-kesx6r5jinlineContent" id="ufifqinlineContent"><div data-content-area-marker="ufifq" data-aid="content-area-marker-ufifq" style="visibility: hidden; position: absolute; width: 980px; margin-left: calc((100% - 980px) * 0.5);"></div><style id="ufifq-content-area-styles">
+    
+#comp-keswlmt9 {
+    margin-left: calc((100% - 980px) * 0.5);
+}
+
+#comp-kesxww0q {
+    margin-left: calc((100% - 980px) * 0.5);
+}
+
+#comp-kesxlaha {
+    margin-left: calc((100% - 980px) * 0.5);
+}
+
+#comp-keswi19p {
+    margin-left: calc((100% - 980px) * 0.5);
+}
+
+#comp-kesxsq3f {
+    margin-left: calc((100% - 980px) * 0.5);
+}
+
+#comp-kesxxb6z {
+    margin-left: calc((100% - 980px) * 0.5);
+}
+
+#comp-kesx10fp {
+    margin-left: calc((100% - 980px) * 0.5);
+}
+
+#comp-kesxxuy0 {
+    margin-left: calc((100% - 980px) * 0.5);
+}
+
+#comp-kesxq166 {
+    margin-left: calc((100% - 980px) * 0.5);
+}
+
+#comp-keswo0kd {
+    margin-left: calc((100% - 980px) * 0.5);
+}
+
+#comp-kesxr1v3 {
+    margin-left: calc((100% - 980px) * 0.5);
+}
+
+#comp-kesxy869 {
+    margin-left: calc((100% - 980px) * 0.5);
+}
+
+#comp-keswxi6p {
+    margin-left: calc((100% - 980px) * 0.5);
+}</style><div class="style-keswlmvn1" id="comp-keswlmt9" style="left: 24px; width: 320px; position: absolute; top: 52px; height: 180px;"><div id="video-player-comp-keswlmt9" class="video3728958405__root videoplayer2725432193__root videoplayer2725432193--isDesktopView style-keswlmvn1" style="width: 100%; height: 100%;"><iframe class="video3728958405__playerContainer" data-player-name="YouTube" frameborder="0" allowfullscreen="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" title="YouTube video player" width="100%" height="100%" src="https://www.youtube.com/embed/8vo59AKzU4Q?autoplay=0&amp;mute=0&amp;controls=1&amp;loop=0&amp;origin=https%3A%2F%2Feditor.wix.com&amp;playsinline=1&amp;enablejsapi=1&amp;widgetid=1" id="widget2"></iframe></div></div><div data-svg-id="76a984d82d1343c09cc9d0a149ad8523.svg" data-svg-type="shape" data-display-mode="stretch" data-strokewidth="0" data-viewbox="0 0 200 200" data-preserve-viewbox="ignore" data-angle="345.23156639567856" data-angle-style-location="style" class="style-kesxwwji" id="comp-kesxww0q" style="left: 214px; width: 37px; position: absolute; top: 245px; height: 25px;"><div id="comp-kesxww0qlink" class="style-kesxwwjilink"><div class="style-kesxwwji_comp-kesxww0q style-kesxwwji_non-scaling-stroke style-kesxwwjisvg" id="comp-kesxww0qsvg" style="stroke-width: 0; fill-opacity: 1; stroke: rgb(237, 21, 102); stroke-opacity: 1; fill: rgb(180, 90, 211);"><svg preserveAspectRatio="none" id="comp-kesxww0qsvgcontent" data-bbox="20.5 40.5 159 119" viewBox="20.5 40.5 159 119" height="200" width="200" xmlns="http://www.w3.org/2000/svg" data-type="shape" role="img">
+    <g>
+        <path d="M100 74.5l-5.678 5.667-56.786 56.666 5.678 5.667L100 85.578l56.786 56.922 5.678-5.667-56.786-56.666L100 74.5z"></path>
+        <path d="M100 108.5l-5.678 5.667-39.75 39.667 5.678 5.666L100 119.833l39.749 39.667 5.679-5.666-39.75-39.667L100 108.5z"></path>
+        <path d="M105.678 46.166L100 40.5l-5.678 5.666L20.5 119.833l5.678 5.667L100 51.877l73.822 73.623 5.678-5.667-73.822-73.667z"></path>
+    </g>
+</svg>
+</div></div></div><div data-packed="false" data-vertical-text="false" data-min-height="25" class="txtNew" id="comp-kesxlaha" style="left: 263px; width: 159px; position: absolute; min-height: 25px; pointer-events: none; top: 241px;"><h4 class="font_4" style="font-size:30px;"><span class="color_34"><span style="font-size:30px;">What is a cell?</span></span></h4></div><div class="style-keswijo7" id="comp-keswi19p" style="left: 612px; width: 320px; position: absolute; top: 47px; height: 180px;"><div id="video-player-comp-keswi19p" class="video3728958405__root videoplayer2725432193__root videoplayer2725432193--isDesktopView style-keswijo7" style="width: 100%; height: 100%;"><iframe class="video3728958405__playerContainer" data-player-name="YouTube" frameborder="0" allowfullscreen="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" title="YouTube video player" width="100%" height="100%" src="https://www.youtube.com/embed/6368Y-OfU9U?autoplay=0&amp;mute=0&amp;controls=1&amp;loop=0&amp;origin=https%3A%2F%2Feditor.wix.com&amp;playsinline=1&amp;enablejsapi=1&amp;widgetid=3" id="widget4"></iframe></div></div><div data-packed="false" data-vertical-text="false" data-min-height="25" class="txtNew" id="comp-kesxsq3f" style="left: 577px; width: 159px; position: absolute; min-height: 25px; pointer-events: none; top: 241px;"><h4 class="font_4" style="font-size:30px;"><span class="color_34"><span style="font-size:30px;">Your DNA</span></span></h4></div><div data-svg-id="76a984d82d1343c09cc9d0a149ad8523.svg" data-svg-type="shape" data-display-mode="stretch" data-strokewidth="0" data-viewbox="0 0 200 200" data-preserve-viewbox="ignore" data-angle="17.206249803864523" data-angle-style-location="style" class="style-kesxxb991" id="comp-kesxxb6z" style="left: 686px; width: 37px; position: absolute; top: 246px; height: 25px;"><div id="comp-kesxxb6zlink" class="style-kesxxb991link"><div class="style-kesxxb991_comp-kesxxb6z style-kesxxb991_non-scaling-stroke style-kesxxb991svg" id="comp-kesxxb6zsvg" style="stroke-width: 0; fill-opacity: 1; stroke: rgb(237, 21, 102); stroke-opacity: 1; fill: rgb(180, 90, 211);"><svg preserveAspectRatio="none" id="comp-kesxxb6zsvgcontent" data-bbox="20.5 40.5 159 119" viewBox="20.5 40.5 159 119" height="200" width="200" xmlns="http://www.w3.org/2000/svg" data-type="shape" role="img">
+    <g>
+        <path d="M100 74.5l-5.678 5.667-56.786 56.666 5.678 5.667L100 85.578l56.786 56.922 5.678-5.667-56.786-56.666L100 74.5z"></path>
+        <path d="M100 108.5l-5.678 5.667-39.75 39.667 5.678 5.666L100 119.833l39.749 39.667 5.679-5.666-39.75-39.667L100 108.5z"></path>
+        <path d="M105.678 46.166L100 40.5l-5.678 5.666L20.5 119.833l5.678 5.667L100 51.877l73.822 73.623 5.678-5.667-73.822-73.667z"></path>
+    </g>
+</svg>
+</div></div></div><div data-border-width="4" class="style-kesx10gt1" id="comp-kesx10fp" style="transform-origin: center 2px; left: 224px; width: 504px; position: absolute; top: 286px; height: 5px;"></div><div data-svg-id="76a984d82d1343c09cc9d0a149ad8523.svg" data-svg-type="shape" data-display-mode="stretch" data-strokewidth="0" data-viewbox="0 0 200 200" data-preserve-viewbox="ignore" data-angle="156.83680176884297" data-angle-style-location="style" class="style-kesxxv0e1" id="comp-kesxxuy0" style="left: 154px; width: 37px; position: absolute; top: 321px; height: 25px;"><div id="comp-kesxxuy0link" class="style-kesxxv0e1link"><div class="style-kesxxv0e1_comp-kesxxuy0 style-kesxxv0e1_non-scaling-stroke style-kesxxv0e1svg" id="comp-kesxxuy0svg" style="stroke-width: 0; fill-opacity: 1; stroke: rgb(237, 21, 102); stroke-opacity: 1; fill: rgb(180, 90, 211);"><svg preserveAspectRatio="none" id="comp-kesxxuy0svgcontent" data-bbox="20.5 40.5 159 119" viewBox="20.5 40.5 159 119" height="200" width="200" xmlns="http://www.w3.org/2000/svg" data-type="shape" role="img">
+    <g>
+        <path d="M100 74.5l-5.678 5.667-56.786 56.666 5.678 5.667L100 85.578l56.786 56.922 5.678-5.667-56.786-56.666L100 74.5z"></path>
+        <path d="M100 108.5l-5.678 5.667-39.75 39.667 5.678 5.666L100 119.833l39.749 39.667 5.679-5.666-39.75-39.667L100 108.5z"></path>
+        <path d="M105.678 46.166L100 40.5l-5.678 5.666L20.5 119.833l5.678 5.667L100 51.877l73.822 73.623 5.678-5.667-73.822-73.667z"></path>
+    </g>
+</svg>
+</div></div></div><div data-packed="false" data-vertical-text="false" data-min-height="25" class="txtNew" id="comp-kesxq166" style="left: 203px; width: 263px; position: absolute; min-height: 25px; pointer-events: none; top: 308px;"><h4 class="font_4" style="font-size:30px;"><span class="color_34"><span style="font-size:30px;">Micro-organisms?</span></span></h4></div><div class="style-keswo0mm" id="comp-keswo0kd" style="left: 24px; width: 320px; position: absolute; top: 361px; height: 180px;"><div id="video-player-comp-keswo0kd" class="video3728958405__root videoplayer2725432193__root videoplayer2725432193--isDesktopView style-keswo0mm" style="width: 100%; height: 100%;"><iframe class="video3728958405__playerContainer" data-player-name="YouTube" frameborder="0" allowfullscreen="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" title="YouTube video player" width="100%" height="100%" src="https://www.youtube.com/embed/JZjzQhFG6Ec?autoplay=0&amp;mute=0&amp;controls=1&amp;loop=0&amp;origin=https%3A%2F%2Feditor.wix.com&amp;playsinline=1&amp;enablejsapi=1&amp;widgetid=5" id="widget6"></iframe></div></div><div data-packed="false" data-vertical-text="false" data-min-height="25" class="txtNew" id="comp-kesxr1v3" style="left: 560px; width: 314px; position: absolute; min-height: 25px; pointer-events: none; top: 308px;"><h4 class="font_4" style="font-size:30px;"><span class="color_34"><span style="font-size:30px;">What is a chromosome?</span></span></h4></div><div data-svg-id="76a984d82d1343c09cc9d0a149ad8523.svg" data-svg-type="shape" data-display-mode="stretch" data-strokewidth="0" data-viewbox="0 0 200 200" data-preserve-viewbox="ignore" data-angle="207.25261664306868" data-angle-style-location="style" class="style-kesxy88h3" id="comp-kesxy869" style="left: 821px; width: 37px; position: absolute; top: 315px; height: 25px;"><div id="comp-kesxy869link" class="style-kesxy88h3link"><div class="style-kesxy88h3_comp-kesxy869 style-kesxy88h3_non-scaling-stroke style-kesxy88h3svg" id="comp-kesxy869svg" style="stroke-width: 0; fill-opacity: 1; stroke: rgb(237, 21, 102); stroke-opacity: 1; fill: rgb(180, 90, 211);"><svg preserveAspectRatio="none" id="comp-kesxy869svgcontent" data-bbox="20.5 40.5 159 119" viewBox="20.5 40.5 159 119" height="200" width="200" xmlns="http://www.w3.org/2000/svg" data-type="shape" role="img">
+    <g>
+        <path d="M100 74.5l-5.678 5.667-56.786 56.666 5.678 5.667L100 85.578l56.786 56.922 5.678-5.667-56.786-56.666L100 74.5z"></path>
+        <path d="M100 108.5l-5.678 5.667-39.75 39.667 5.678 5.666L100 119.833l39.749 39.667 5.679-5.666-39.75-39.667L100 108.5z"></path>
+        <path d="M105.678 46.166L100 40.5l-5.678 5.666L20.5 119.833l5.678 5.667L100 51.877l73.822 73.623 5.678-5.667-73.822-73.667z"></path>
+    </g>
+</svg>
+</div></div></div><div class="style-keswxi8j1" id="comp-keswxi6p" style="left: 604px; width: 320px; position: absolute; top: 361px; height: 180px;"><div id="video-player-comp-keswxi6p" class="video3728958405__root videoplayer2725432193__root videoplayer2725432193--isDesktopView style-keswxi8j1" style="width: 100%; height: 100%;"><iframe class="video3728958405__playerContainer" data-player-name="YouTube" frameborder="0" allowfullscreen="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" title="YouTube video player" width="100%" height="100%" src="https://www.youtube.com/embed/IePMXxQ-KWY?autoplay=0&amp;mute=0&amp;controls=1&amp;loop=0&amp;origin=https%3A%2F%2Feditor.wix.com&amp;playsinline=1&amp;enablejsapi=1&amp;widgetid=7" id="widget8"></iframe></div></div></div></div></div></div></div></main>
+
+
+<style>
+footer {
+  text-align: center;
+  padding: 1px;
+  background-color:Orange;
+  color: white;
+  margin-top:550px;
+}
+</style>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<footer >
+  <a href="Home.html">Home||</a>
+ <a href="Our.html">Our Programs||</a>
+ <a href="Vision.html">Vision||</a>
+  <a href="Regester.html">Regiser||</a>
+<p>© 2020 Biotechnology for kids<br>
+</p>
+</footer>
+</body>
+
+  
+
+
+</html>
