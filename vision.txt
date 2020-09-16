@@ -78,9 +78,10 @@ and Technology <img src="A.PNG" style="high:70px; width:70px;" / > </h1>
 <div class="dropdown" >
 	<button  class="dropbtn" > <a href="our.html" >   OUR PROGRAMS </a> </button>
 	<div class="dropdown-content" >
+	  <a href = "watch.html">WATCH & LEARN </a>
+
   <a href = "puzzel.html">PUZZEL GAME </a>
   <a href = "puzzel2.html"> PUZZEL GAME 2</a>
-  <a href = "watch.html">WATCH & LEARN </a>
   <a href = "code.html">CODE YOUR FUTURE </a>
   <a href = "lesson1.html">LESSON 1</a>
   <a href = "practice.html">PRACTICE 1</a>
@@ -206,7 +207,50 @@ and Technology <img src="A.PNG" style="high:70px; width:70px;" / > </h1>
 </div>
 
 
+<style>
+footer {
+  text-align: center;
+  padding: 1px;
+  background-color:Orange;
+  color: white;
+ 
+}
+</style>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<footer>
+  <p>
+  <a href="Home.html">Home||</a>
+ <a href="Our.html">Our Programs||</a>
+ <a href="Vision.html">Vision||</a>
+  <a href="Regester.html">Regiser||</a>
+<p>© 2020 Biotechnology for kids<br>
 
+</p>
+</footer>
 
 </body>
 
