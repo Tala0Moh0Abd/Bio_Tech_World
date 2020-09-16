@@ -44,7 +44,34 @@
 .dropdown-content a:hover {background-color: #f1f1f1;}
 .dropdown:hover .dropdown-content {display: block;}
 .dropdown:hover .dropbtn {background-color: #3e8e41;}
+
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+} 
+.button {
+  background-color: #3090C7; /* Green */
+  border: none;
+  color: white;
+  padding: 12px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin: 6px 3px;
+  cursor: pointer;
+}
+.button4 {border-radius: 20px;}
+
+.vl {
+  border-left: 6px solid #3090C7;
+  height: 350px;
+   color: #3090C7;
+   
+}
 </style>
+
 
 </head>
 
@@ -78,9 +105,9 @@ and Technology <img src="A.PNG" style="high:70px; width:70px;" / > </h1>
 <div class="dropdown" >
 	<button  class="dropbtn" > <a href="our.html" >   OUR PROGRAMS </a> </button>
 	<div class="dropdown-content" >
+  <a href = "watch.html">WATCH & LEARN </a>
   <a href = "puzzel.html">PUZZEL GAME </a>
   <a href = "puzzel2.html"> PUZZEL GAME 2</a>
-  <a href = "watch.html">WATCH & LEARN </a>
   <a href = "code.html">CODE YOUR FUTURE </a>
   <a href = "lesson1.html">LESSON 1</a>
   <a href = "practice.html">PRACTICE 1</a>
@@ -105,6 +132,279 @@ and Technology <img src="A.PNG" style="high:70px; width:70px;" / > </h1>
 
 </div>
 
+<div class="slideshow-container" style="height:400px; width:700px; margin-left:275px;">
+
+<div class="mySlides fade">
+  <img src="bi.jpg" style=" height:350px;   width:850px;">
+</div>
+
+<div class="mySlides fade">
+  <img src="ss.jpg" style=" height:350px;   width:850px;">
+</div>
+
+<div class="mySlides fade">
+  <img src="sa.jpg" style=" height:350px;   width:850px;">
+</div>
+
+<div class="mySlides fade">
+  <img src="p.png" style=" height:350px;   width:850px;">
+</div>
+
+<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+<a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+</div>
+<br>
+
+
+<div style="text-align:center">
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+</div>
+
+
+<div style="left: 50px; width: 69px; position: absolute; min-height: 368px; pointer-events: none; color:#3090C7; ">
+
+<h2 style="text-align:center;"><span >0</span></h2>
+
+<h2 style="text-align:center;"><span >1</span></h2>
+
+<h2  style="text-align:center;"><span >0</span></h2>
+
+<h2  style="text-align:center;"><span >1</span></h2>
+
+<h2  style="text-align:center;"><span >1</span></h2>
+
+<h2  style="text-align:center;"><span >0</span></h2>
+
+</div>
+
+
+<div style="left: 100px; position: absolute;  width: 279px; height: 186px;">
+<div  style="transform: translateZ(0px); width: 279px; height: 186px;">
+<div  style="width: 279px; height: 186px;">
+<svg  style="width: 0px; height: 0px; left: 0px; top: 0px; overflow: hidden; position: absolute;">
+<defs>
+<filter id="lighten-comp-kesjnpqeimg" color-interpolation-filters="sRGB">
+   <feComponentTransfer in="color" result="color_alpha"><feFuncA type="linear" slope="0.46"></feFuncA></feComponentTransfer>
+<feComposite operator="over" in="color_alpha" in2="srcRGB"></feComposite>
+    <feComponentTransfer></feComponentTransfer>
+</filter>
+</defs>
+</svg>
+<img  style="filter: url(&quot;#lighten-comp-kesjnpqeimg&quot;); outline: transparent solid 1px; width: 279px; height: 186px; object-fit: cover;" 
+src="w.jpg">
+</div>
+</div>
+</div>
+
+<div style="left: 170px; width: 117px; position: absolute;  height: 40px; width:200px;">
+<a href="watch.html"  target="_self" aria-label="WATCH &amp; LEARN"  >
+<div class="stylablebutton643855516__container">
+<span class="stylablebutton643855516__label"> <button class="button button4" style="margin-top:82px; margin-left:-25px; height: 40px; width:150px;" > WATCH &amp; LEARN  </button> </span>
+</div>
+</a>
+</div>
+
+<div style="transform-origin: center 2px; margin-top:175px; margin-left:100px; position: absolute; color: #3090C7;  font-size:40px;">
+ - - - - - - - - - - - - - 
+</div>
+
+<div class="slideshow-container" style="left: 100px; position: absolute; margin-top:220px; width: 279px; height: 186px;">
+
+<div class="mySlide fade">
+  <img src="gen.jpg" style=" width: 279px; height: 186px;">
+</div>
+
+<div class="mySlide fade">
+  <img src="maxresdefault.jpg" style=" width: 279px; height: 186px;">
+</div>
+
+<div class="mySlide fade">
+  <img src="bsc-biotech-microbiol-banner.jpg" style="width: 279px; height: 186px;">
+</div>
+
+
+<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+<a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+</div>
+<br>
+
+
+<div style="text-align:center">
+  <span class="do"></span> 
+  <span class="do"></span> 
+  <span class="do"></span> 
+</div>
+
+<div class="vl" style="margin-left :  430px; "> </div>
+
+
+
+<div style="left: 500px; position: absolute; margin-top:-370px;  width: 279px; height: 186px;">
+<div  style="transform: translateZ(0px); width: 279px; height: 186px;">
+<div  style="width: 279px; height: 186px;">
+<svg  style="width: 0px; height: 0px; left: 0px; top: 0px; overflow: hidden; position: absolute;">
+<defs>
+<filter id="lighten-comp-kesjnpqeimg" color-interpolation-filters="sRGB">
+   <feComponentTransfer in="color" result="color_alpha"><feFuncA type="linear" slope="0.46"></feFuncA></feComponentTransfer>
+<feComposite operator="over" in="color_alpha" in2="srcRGB"></feComposite>
+    <feComponentTransfer></feComponentTransfer>
+</filter>
+</defs>
+</svg>
+<img  style="filter: url(&quot;#lighten-comp-kesjnpqeimg&quot;); outline: transparent solid 1px; width: 279px; height: 186px; object-fit: cover;" 
+src="puzz.jpg">
+</div>
+</div>
+</div>
+
+<div style="left: 600px; width: 117px; margin-top:-370px; position: absolute;  height: 40px; width:200px;">
+<a href="puzzel.html"  target="_self" aria-label="WATCH &amp; LEARN"  >
+<div class="stylablebutton643855516__container">
+<span class="stylablebutton643855516__label"> <button class="button button4" style="margin-top:82px; margin-left:-25px; height: 40px; width:150px;" >PUZZEL </button> </span>
+</div>
+</a>
+</div>
+
+
+
+<div style="transform-origin: center 2px; left: 475px; margin-top:-190px;  position: absolute; color: #3090C7;  font-size:40px;">
+ - - - - - - - - - - - - - 
+</div>
+<div style="left: 500px; position: absolute; margin-top:-150px;  width: 279px; height: 186px;">
+<div  style="transform: translateZ(0px); width: 279px; height: 186px;">
+<div  style="width: 279px; height: 186px;">
+<svg  style="width: 0px; height: 0px; left: 0px; top: 0px; overflow: hidden; position: absolute;">
+<defs>
+<filter id="lighten-comp-kesjnpqeimg" color-interpolation-filters="sRGB">
+   <feComponentTransfer in="color" result="color_alpha"><feFuncA type="linear" slope="0.46"></feFuncA></feComponentTransfer>
+<feComposite operator="over" in="color_alpha" in2="srcRGB"></feComposite>
+    <feComponentTransfer></feComponentTransfer>
+</filter>
+</defs>
+</svg>
+<img  style="filter: url(&quot;#lighten-comp-kesjnpqeimg&quot;); outline: transparent solid 1px; width: 279px; height: 186px; object-fit: cover;" 
+src="C.jpg">
+</div>
+</div>
+</div>
+
+<div style="left: 600px; width: 117px; margin-top:-150px; position: absolute;  height: 40px; width:200px;">
+<a href="code.html"  target="_self" aria-label="WATCH &amp; LEARN"  >
+<div class="stylablebutton643855516__container">
+<span class="stylablebutton643855516__label"> <button class="button button4" style="margin-top:82px; margin-left:-25px; height: 40px; width:150px;" >CODE </button> </span>
+</div>
+</a>
+</div>
+
+
+<div class="vl"  style="margin-left :  800px;  margin-top:-346px; "> </div>
+
+<div style="left: 850px; position: absolute; margin-top:-230px;  width: 279px; height: 186px;">
+<div  style="transform: translateZ(0px); width: 279px; height: 186px;">
+<div  style="width: 279px; height: 186px;">
+<svg  style="width: 0px; height: 0px; left: 0px; top: 0px; overflow: hidden; position: absolute;">
+<defs>
+<filter id="lighten-comp-kesjnpqeimg" color-interpolation-filters="sRGB">
+   <feComponentTransfer in="color" result="color_alpha"><feFuncA type="linear" slope="0.46"></feFuncA></feComponentTransfer>
+<feComposite operator="over" in="color_alpha" in2="srcRGB"></feComposite>
+    <feComponentTransfer></feComponentTransfer>
+</filter>
+</defs>
+</svg>
+<img  style="filter: url(&quot;#lighten-comp-kesjnpqeimg&quot;); outline: transparent solid 1px; width: 279px; height: 186px; object-fit: cover;" 
+src="color.jpg">
+</div>
+</div>
+</div>
+
+<div style="right: 300px; width: 117px; margin-top:-380px; position:absolute;  height: 40px; width:200px;color:deeppink;font-size:125%;">
+<h1 align=right>Pick Your Activity</h1>
+</div>
+
+
+
+
+<div style="left: 950px; width: 117px; margin-top:-230px; position: absolute;  height: 40px; width:200px;">
+<a href="color.html"  target="_self" aria-label="WATCH &amp; LEARN"  >
+<div class="stylablebutton643855516__container">
+<span class="stylablebutton643855516__label"> <button class="button button4" style="margin-top:82px; margin-left:-25px; height: 40px; width:150px;" >COLORING  </button> </span>
+</div>
+</a>
+
+
+</div>
+
+
+<script>
+var slideIndex = 0;
+showSlides();
+
+function showSlides() {
+  var i;
+  var slides = document.getElementsByClassName("mySlides");
+  var dots = document.getElementsByClassName("dot");
+  for (i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";  
+  }
+  slideIndex++;
+  if (slideIndex > slides.length) {slideIndex = 1}    
+  for (i = 0; i < dots.length; i++) {
+    dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";  
+  dots[slideIndex-1].className += " active";
+  setTimeout(showSlides, 2500); // Change image every 2.5 seconds
+}
+
+
+show();
+
+function show() {
+  var j;
+  var slide = document.getElementsByClassName("mySlide");
+  var dot = document.getElementsByClassName("do");
+  for (j = 0; j < slide.length; j++) {
+    slide[j].style.display = "none";  
+  }
+  slideIndex++;
+  if (slideIndex > slide.length) {slideIndex = 1}    
+  for (j = 0; j < dot.length; j++) {
+    dot[j].className = dot[j].className.replace(" active", "");
+  }
+  slide[slideIndex-1].style.display = "block";  
+  dot[slideIndex-1].className += " active";
+  setTimeout(show, 2500); // Change image every 2.5 seconds
+}
+</script>
+
+
+<style>
+footer {
+  text-align: center;
+  padding: 1px;
+  background-color:Orange;
+  color: white;
+ 
+}
+</style>
+<br>
+<br>
+<br>
+<footer>
+  <p>
+  <a href="Home.html">Home||</a>
+ <a href="Our.html">Our Programs||</a>
+ <a href="Vision.html">Vision||</a>
+  <a href="Regester.html">Regiser||</a>
+<p>© 2020 Biotechnology for kids<br>
+
+</p>
+</footer>
 
 </body>
 
